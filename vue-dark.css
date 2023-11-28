@@ -196,7 +196,7 @@ body {
 }
 
 #write {
-    max-width: 860px;
+    /* max-width: 860px; */
     margin: 0 auto;
     padding: 20px 30px 40px 30px;
     padding-top: 20px;
