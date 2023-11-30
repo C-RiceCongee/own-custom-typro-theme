@@ -54,5 +54,5 @@
     --body-font: 'Source Sans Pro', '等距更纱黑体 SC', 'Helvetica Neue', Arial, sans-serif; /* 全局字体 */
     --code-font: 'JetBrains Mono'; /* 代码块以及行内代码字体 */
   /* bg image */
-  --bgimg-url: url(./bg-light.gif);
+  --bgimg-url: url(./bg-light.png);
 }
