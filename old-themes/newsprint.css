@@ -6,7 +6,7 @@
 
 /* pt-serif-regular - latin */
 @font-face {
-  font-family: 'PT Serif'; 
+  font-family: 'PT Serif';
   font-style: normal;
   font-weight: normal;
 	src: local('PT Serif'), local('PTSerif-Regular'), url('./newsprint/pt-serif-v11-latin-regular.woff2') format('woff2');
@@ -62,10 +62,9 @@ html {
 
 html, body {
 	background-color: #f3f2ee;
-	font-family: "American Typewriter","楷体-简", 'Times New Roman', Times, serif;
+	font-family: "PT Serif", 'Times New Roman', Times, serif;
 	color: #1f0909;
 	line-height: 1.5em;
-	letter-spacing: 1.3;
 }
 
 /*#write {
@@ -83,7 +82,7 @@ html, body {
 }*/
 
 #write {
-	max-width: 60em;
+	max-width: 40em;
 }
 
 @media only screen and (min-width: 1400px) {
