@@ -21,27 +21,27 @@
 }
 @font-face {
     font-family: 'Ali_PuHuiTi';
-    src: url('./SpaceMonoNerdFont-Regular.ttf') format('truetype');
+    src: url('./SpaceMonoNerdFont-Bold.ttf') format('truetype');
     font-weight: 500;
 }
 @font-face {
     font-family: 'Ali_PuHuiTi';
-    src: url('./SpaceMonoNerdFont-Regular.ttf') format('truetype');
+    src: url('./SpaceMonoNerdFont-Bold.ttf') format('truetype');
     font-weight: 600;
 }
 @font-face {
     font-family: 'Ali_PuHuiTi';
-    src: url('./SpaceMonoNerdFont-Regular.ttf') format('truetype');
+    src: url('./SpaceMonoNerdFont-Bold.ttf') format('truetype');
     font-weight: 700;
 }
 @font-face {
     font-family: 'Ali_PuHuiTi';
-    src: url('./SpaceMonoNerdFont-Regular.ttf') format('truetype');
+    src: url('./SpaceMonoNerdFont-Bold.ttf') format('truetype');
     font-weight: 800;
 }
 @font-face {
     font-family: 'Ali_PuHuiTi';
-    src: url('./SpaceMonoNerdFont-Regular.ttf') format('truetype');
+    src: url('./SpaceMonoNerdFont-Bold.ttf') format('truetype');
     font-weight: 900;
 }
 
@@ -68,17 +68,17 @@
 }
 @font-face {
     font-family: 'SiYuan_HeiTi';
-    src: url('./SpaceMonoNerdFont-Regular.ttf') format('truetype');
+    src: url('./SpaceMonoNerdFont-Bold.ttf') format('truetype');
     font-weight: 500;
 }
 @font-face {
     font-family: 'SiYuan_HeiTi';
-    src: url('./SpaceMonoNerdFont-Regular.ttf') format('truetype');
+    src: url('./SpaceMonoNerdFont-Bold.ttf') format('truetype');
     font-weight: 600;
 }
 @font-face {
     font-family: 'SiYuan_HeiTi';
-    src: url('./SpaceMonoNerdFont-Regular.ttf') format('truetype');
+    src: url('./SpaceMonoNerdFont-Bold.ttf') format('truetype');
     font-weight: 700;
 }
 
@@ -122,6 +122,6 @@
 }
 @font-face {
     font-family: 'ZhanKu_YvYangTi';
-    src: url('./SpaceMonoNerdFont-Regular.ttf') format('truetype');
+    src: url('./SpaceMonoNerdFont-Bold.ttf') format('truetype');
     font-weight: 500;
 }
